@@ -1,0 +1,27 @@
+_repo: Rund-um-den-Kreuzturm-Roman-aus-den-Dresdner-Maitagen-von-1849_56367
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Windisch, Josef
+    gutenberg_agent_id: '48803'
+    url: http://www.gutenberg.org/2009/agents/48803
+creator:
+  author:
+    agent_name: Hildebrand, Gustav
+    gutenberg_agent_id: '48802'
+    url: http://www.gutenberg.org/2009/agents/48802
+description: ''
+gutenberg_issued: '2018-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56367'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rund um den Kreuzturm
+
+  Roman aus den Dresdner Maitagen von 1849'
+url: http://www.gutenberg.org/ebooks/56367
